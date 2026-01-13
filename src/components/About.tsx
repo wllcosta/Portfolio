@@ -32,16 +32,21 @@ const About = () => {
         <div className="grid lg:grid-cols-2 gap-12 items-center">
           {/* Content */}
           <div className="space-y-6">
-            <div className="prose prose-lg">
+            <div className="prose prose-lg space-y-4">
               <p className="text-foreground leading-relaxed">
-                Sou <span className="font-semibold text-primary">Willian</span>, desenvolvedor full-stack com foco em front-end e estudante de 
-                <span className="font-semibold text-primary"> Engenharia de Software</span>. Tenho experiência em manutenção e evolução de sistemas web, 
-                utilizando tecnologias modernas como React, Angular, Laravel e integração com APIs REST.
+                Sou <span className="font-semibold text-primary">Willian Desplanches Costa</span>, Engenheiro de Software e desenvolvedor júnior, com experiência em desenvolvimento front-end e back-end em sistemas web. Atuei na manutenção, evolução e melhoria de funcionalidades, sempre com foco em qualidade, usabilidade e boas práticas de desenvolvimento.
               </p>
               
               <p className="text-muted-foreground leading-relaxed">
-                Sou proativo, aprendo rápido e busco sempre entregar soluções eficientes e responsivas. 
-                Acredito que a tecnologia tem o poder de transformar ideias em realidade, e é isso que me motiva todos os dias.
+                Tenho vivência tanto na construção de interfaces quanto na compreensão das regras de negócio, integrações e comunicação entre as camadas do sistema, o que me permite contribuir de forma mais eficiente para soluções bem estruturadas e funcionais.
+              </p>
+
+              <p className="text-muted-foreground leading-relaxed">
+                Possuo experiência com banco de dados, realizando ajustes, manutenções e consultas para suporte às funcionalidades do sistema. Também atuei com testes unitários e funcionais, documentação técnica e participação em reuniões de planejamento e alinhamento com equipes e stakeholders.
+              </p>
+
+              <p className="text-muted-foreground leading-relaxed">
+                Sou familiarizado com metodologias ágeis, com experiência no uso de ferramentas de organização e acompanhamento de tarefas. Sou proativo, organizado, tenho facilidade de aprendizado e bom trabalho em equipe. Acredito que a tecnologia tem o poder de transformar ideias em realidade, e é isso que me motiva todos os dias.
               </p>
             </div>
 

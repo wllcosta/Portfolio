@@ -34,7 +34,7 @@ const Hero = () => {
         <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold mb-6 animate-fade-in-up" style={{ animationDelay: '0.2s' }}>
           <span className="block text-foreground">Olá, eu sou</span>
           <span className="block bg-gradient-to-r from-primary to-dark bg-clip-text text-transparent">
-            Willian Desplanche
+            Willian Desplanches Costa
           </span>
         </h1>
 
