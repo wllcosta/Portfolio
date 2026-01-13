@@ -40,7 +40,7 @@ const Hero = () => {
 
         {/* Subtitle */}
         <p className="text-xl md:text-2xl text-muted-foreground mb-4 animate-fade-in-up" style={{ animationDelay: '0.4s' }}>
-          Estudante de Engenharia de Software | Desenvolvedor Frontend
+          Engenheiro de Software | Desenvolvedor Frontend
         </p>
 
         {/* Slogan */}
