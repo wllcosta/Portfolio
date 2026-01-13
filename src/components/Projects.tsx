@@ -4,6 +4,24 @@ const Projects = () => {
   const projects = [
     {
       id: 1,
+      name: "Documenta Aí (TCC)",
+      description: "Plataforma web open source para formatação e documentação automática de código utilizando Inteligência Artificial. O sistema auxilia desenvolvedores a gerar documentação de forma rápida, padronizada e eficiente.",
+      technologies: ["React", "TypeScript", "Node.js", "OpenAI API", "Tailwind CSS"],
+      github: "#",
+      demo: "#",
+      image: "/api/placeholder/600/400"
+    },
+    {
+      id: 2,
+      name: "Descarta Aí",
+      description: "Sistema web com Inteligência Artificial integrada para auxiliar no descarte correto de produtos. A plataforma orienta o usuário sobre qual lixeira ou ambiente adequado deve ser utilizado, contribuindo para a preservação do meio ambiente.",
+      technologies: ["React", "TypeScript", "AI/ML", "Node.js", "MongoDB"],
+      github: "#",
+      demo: "#",
+      image: "/api/placeholder/600/400"
+    },
+    {
+      id: 3,
       name: "Flexihire",
       description: "Sistema web para conectar estabelecimentos e profissionais para trabalhos temporários, facilitando a busca, contratação e gestão de oportunidades. Possui autenticação, gerenciamento de perfis e filtros avançados.",
       technologies: ["Laravel", "PHP", "MySQL", "HTML", "CSS", "JavaScript", "Bootstrap"],
@@ -12,7 +30,7 @@ const Projects = () => {
       image: "/api/placeholder/600/400"
     },
     {
-      id: 2,
+      id: 4,
       name: "Boookzone",
       description: "Plataforma CRUD para cadastro, busca, download e upload de livros em PDF, com recursos de avaliações, comentários, favoritos e filtros por categoria.",
       technologies: ["Laravel", "PHP", "MySQL", "HTML", "CSS", "JavaScript", "Bootstrap"],
@@ -21,7 +39,7 @@ const Projects = () => {
       image: "/api/placeholder/600/400"
     },
     {
-      id: 3,
+      id: 5,
       name: "ShinSekai",
       description: "Sistema colaborativo para gerenciamento de equipes e submissão de trabalhos acadêmicos com controle de versões, comentários e dashboard para status.",
       technologies: ["Laravel", "PHP", "MySQL", "HTML", "CSS", "JavaScript"],
