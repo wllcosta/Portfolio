@@ -1,73 +1,71 @@
-# Welcome to your Lovable project
+# Portfólio Pessoal
 
-## Project info
+## Visão Geral
 
-**URL**: https://lovable.dev/projects/10869749-d611-4d0b-a966-13b22dd546c7
+Este projeto é o meu **portfólio pessoal**, desenvolvido para fins **profissionais**. Ele reúne projetos, experiências e informações relevantes sobre minha trajetória como **Engenheiro de Software** e **Desenvolvedor Júnior**, servindo como uma vitrine das minhas habilidades e evolução na área de tecnologia.
 
-## How can I edit this code?
+O portfólio foi construído com foco em **organização, desempenho, usabilidade e boas práticas de desenvolvimento**, permitindo fácil manutenção, expansão e adaptação conforme novas experiências e projetos são adicionados.
 
-There are several ways of editing your application.
+---
 
-**Use Lovable**
+## Estrutura do Projeto
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/10869749-d611-4d0b-a966-13b22dd546c7) and start prompting.
+O projeto foi organizado seguindo boas práticas de separação de responsabilidades, visando facilitar a leitura do código, manutenção, escalabilidade e evolução contínua da aplicação.
 
-Changes made via Lovable will be committed automatically to this repo.
+---
 
-**Use your preferred IDE**
+## Tecnologias Utilizadas
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+- Vite  
+- TypeScript  
+- React  
+- Tailwind CSS  
+- shadcn/ui  
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+---
 
-Follow these steps:
+## Como executar o projeto localmente
+
+### Pré-requisitos
+
+- Node.js instalado  
+- npm ou yarn  
+
+### Passo a passo
 
 ```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+# Clone o repositório
+git clone <URL_DO_REPOSITORIO>
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+# Acesse a pasta do projeto
+cd <NOME_DO_PROJETO>
 
-# Step 3: Install the necessary dependencies.
-npm i
+# Instale as dependências
+npm install
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# Execute o projeto em ambiente de desenvolvimento
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+Após iniciar, a aplicação estará disponível em ambiente local com recarregamento automático a cada alteração no código.
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+---
 
-**Use GitHub Codespaces**
+## Build para produção
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+```sh
+npm run build
+```
 
-## What technologies are used for this project?
+---
 
-This project is built with:
+## Objetivo do Projeto
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+Este portfólio tem como objetivo apresentar minha **experiência prática**, **projetos acadêmicos** e **iniciativas profissionais**, demonstrando minha capacidade de desenvolver e manter aplicações web seguindo padrões modernos, com foco em qualidade, organização e evolução contínua.
 
-## How can I deploy this project?
+---
 
-Simply open [Lovable](https://lovable.dev/projects/10869749-d611-4d0b-a966-13b22dd546c7) and click on Share -> Publish.
+## Autor
 
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+**Willian Desplanches Costa**  
+Engenheiro de Software • Desenvolvedor Júnior
